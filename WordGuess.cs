@@ -26,7 +26,7 @@ class GuessingGame
     }
 
     /*
-        Returns true if the given boolean array has any falese values.
+        Returns true if the given boolean array has any false values.
     */
     static bool HasFalse(bool[] values)
     {
